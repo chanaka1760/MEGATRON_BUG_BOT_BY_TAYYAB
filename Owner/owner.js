@@ -1,1 +1,1 @@
-module.exports = ["919339344963"]; // <-- Replace with YOUR number
+module.exports = ["94707242520"]; // <-- Replace with YOUR number
